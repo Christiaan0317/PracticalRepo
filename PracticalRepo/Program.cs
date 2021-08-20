@@ -8,6 +8,7 @@ namespace PracticalRepo
         {
             Console.WriteLine("This is a practical repository test"); 
             Console.WriteLine("Change");
+            Console.WriteLine("Thank you!");
         }
     }
 }
